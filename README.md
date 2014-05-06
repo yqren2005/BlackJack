@@ -1,1 +1,1 @@
-Implemented a simple blackjack in python.
+Implemented a simple Blackjack game in python.
