@@ -1,6 +1,7 @@
 Implemented a simple Blackjack game in python.
 
 Here is my BlackJack rule:
+
     1. If you win with a BlackJack, bet payout is 3:2.
     2. You can surrender but half bet will be taken.
     3. You can select DoubleDown, only 1 more card will be hit, and
